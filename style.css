@@ -1,0 +1,31 @@
+h1 {
+	color: red;
+	font-size: 50px;
+}
+.new {
+	color: white;
+	width: 100px;
+	height: 75px;
+	background-color: blue;
+}
+.free {
+	margin-top: 5em;	
+}
+.free span {
+	color: red;
+}
+.move {
+	margin-left: 100px;
+}
+h2 {
+	color: white;
+	background-color: green;
+}
+.fresh {
+	padding: 40px 40px;
+}
+#list li {
+	font-size: 20px;
+	font-weight: bold; 
+	border: 1px solid black;
+}
